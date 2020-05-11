@@ -9,7 +9,7 @@
 - Лебедев Олег Владимирович [5](answers/5.md) [13](answers/13.md) [21](answers/21.md) [29](answers/29.md) 37 45
 - Феофанов Вадим Александрович [6](answers/6.md) [14](answers/14.md) [22](answers/22.md) [30](answers/30.md) [38](answers/38.md) [46](answers/46.md)
 - Цирков Олег Геннадьевич [7](answers/7.md) [15](answers/15.md) [23](answers/23.md) [31](answers/31.md) [39](answers/39.md) [47](answers/47.md)
-- Ярославцева Екатерина Александровна 8 16 24 32 40 48
+- Ярославцева Екатерина Александровна [8](answers/8.md) [16](answers/16.md) [24](answers/24.md) [32](answers/32.md) [40](answers/40.md) [48](answers/48.md)
 
 ## Самое
 
